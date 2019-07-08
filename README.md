@@ -1,1 +1,1 @@
-# scoala-informala-homework
+# Homework repository for SIIT
