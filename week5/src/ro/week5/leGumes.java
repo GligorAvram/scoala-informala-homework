@@ -2,6 +2,12 @@ package ro.week5;
 
 import java.util.Objects;
 
+/**
+ * Clasa leGumes care descrie produsele vegetale care vor fi vandute.
+ * Are metodele equals si toString rescrise pentru a putea fi comparate cu alte produse/printate
+ * numele e scris cu litera mica intentionat.
+ */
+
 public class leGumes extends Product {
 
     private String name;

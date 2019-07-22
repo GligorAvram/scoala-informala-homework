@@ -10,16 +10,16 @@ public class StoreManagerTests {
     @Test
     public void testLeGumesToStock() {
         StoreManager s = new StoreManager();
-        Product l1 = new leGumes("caca", "a b c");
-        Product l2 = new leGumes("pipi", "a b");
-        Product l3 = new leGumes("caca", "a b");
-        Product l4 = new leGumes("caca", "a b c");
+        Product l1 = new leGumes("vanilla", "a b c");
+        Product l2 = new leGumes("carrots", "a b");
+        Product l3 = new leGumes("vanilla", "a b");
+        Product l4 = new leGumes("carrots", "a b c");
         s.addToStock(l1, 10);
         s.addToStock(l2, 10);
         s.addToStock(l3, 10);
         s.addToStock(l4, 10);
         int x = s.stock.size();
-        assertEquals(3, x);
+        assertEquals(4, x);
     }
 
     @Test
@@ -130,8 +130,5 @@ public class StoreManagerTests {
         s.getSalesRecord("1");
         s.getSalesRecord("Nimic");
         s.getSalesRecord("2");
-
-
     }
-
 }

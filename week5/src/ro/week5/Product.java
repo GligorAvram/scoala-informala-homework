@@ -1,5 +1,9 @@
 package ro.week5;
 
+/**
+ * Clasa parinte Product care va descrie toate produsele care vor fi vandute.
+ */
+
 public abstract class Product implements Cloneable {
     //initialized with bogus values because they don't seem to be used. this can be changed if needed.
     int price = 100, weight = 1;
@@ -8,6 +12,11 @@ public abstract class Product implements Cloneable {
     private int stock = 0;
     private int id;
 
+    /**
+     * Adauga la stocul existent noua cantitate de produse. NU RESCRIE VECHEA CANTITATE.
+     *
+     * @param quantity
+     */
     public void setStock(int quantity) {
         int x = stock + quantity;
         if (x < 0) {

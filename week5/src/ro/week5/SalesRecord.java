@@ -1,5 +1,8 @@
 package ro.week5;
 
+/**
+ * Clasa folosita pentru a crea un record despre ceea ce a fost vandut p baza id-ului si cantitatea vanzarii.
+ */
 public class SalesRecord {
     private int id, quantity;
 

@@ -2,6 +2,11 @@ package ro.week5;
 
 import java.util.Objects;
 
+/**
+ * Clasa Milk care descrie produsele animale care vor fi vandute.
+ * Are metodele equals si toString rescrise pentru a putea fi comparate cu alte produse/printate
+ */
+
 public class Milk extends Animal {
     private String name = "Milk";
 

@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be55b0aa-c06f-4fdb-8341-f74c35e8fe0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/HomeworkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/HomeworkApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Eggs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Eggs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Milk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Milk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Other.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Other.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/StoreManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/StoreManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/leGumes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/leGumes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/tests/StoreManagerTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitRep/ro/week5/tests/StoreManagerTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week5/ro/week5/HomeworkApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/Eggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/Eggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/Other.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/Other.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/SalesRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/SalesRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/StoreManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/StoreManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/leGumes.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/leGumes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/src/ro/week5/tests/StoreManagerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5/src/ro/week5/tests/StoreManagerTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +37,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ro/siit/tema1/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/Store.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="122">
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/HomeworkApp.java">
+        <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/tests/StoreManagerTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-1842">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -93,8 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,13 +131,26 @@
               <item name="week5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scoala-informala-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scoala-informala-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/kkk" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -139,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Store">
     <configuration name="HomeworkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.week5.HomeworkApp" />
       <module name="week5" />
@@ -153,8 +184,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.week5.Store" />
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreManagerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.week5.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.week5.tests" />
+      <option name="MAIN_CLASS_NAME" value="ro.week5.tests.StoreManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Store" />
+        <item itemvalue="JUnit.StoreManagerTests" />
         <item itemvalue="Application.HomeworkApp" />
         <item itemvalue="Application.HomeworkApp" />
       </list>
@@ -197,8 +258,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28021148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2839879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,7 +277,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32899022" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -276,17 +338,19 @@
     <entry file="file://$PROJECT_DIR$/week5/week5.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ro/siit/tema1/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/tema1/TestClass.java" />
+    <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/HomeworkApp.java" />
+    <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/Store.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="122">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/HomeworkApp.java">
+    <entry file="file://$PROJECT_DIR$/week5/src/ro/week5/tests/StoreManagerTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="-1842">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
