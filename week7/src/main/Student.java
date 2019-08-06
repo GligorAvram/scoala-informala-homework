@@ -1,5 +1,8 @@
 package main;
 
+/**
+ * Student class providing only getters and setters for the students being worked with
+ */
 public class Student {
 
     private String cnp, firstName, lastName, gender;

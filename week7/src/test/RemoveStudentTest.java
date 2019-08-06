@@ -5,8 +5,14 @@ import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
+/**
+ *
+ */
 public class RemoveStudentTest {
 
+    /**
+     * Tests if students are removed
+     */
     @Test
     public void happyRemoveTest() {
         StudentDB s = new StudentDB();
@@ -16,6 +22,9 @@ public class RemoveStudentTest {
         assertEquals(s.getStudentList().size(), 1);
     }
 
+    /**
+     * Tests if the id is too short
+     */
     @Test(expected = IllegalArgumentException.class)
     public void cnpTooShort() {
         StudentDB s = new StudentDB();
@@ -25,6 +34,9 @@ public class RemoveStudentTest {
         assertEquals(s.getStudentList().size(), 1);
     }
 
+    /**
+     * Tests if the id is null
+     */
     @Test(expected = IllegalArgumentException.class)
     public void nullCNP() {
         StudentDB s = new StudentDB();
@@ -34,6 +46,9 @@ public class RemoveStudentTest {
         assertEquals(s.getStudentList().size(), 1);
     }
 
+    /**
+     * Tests if the id provided by the user is in the records or not
+     */
     @Test(expected = IllegalArgumentException.class)
     public void cnpNotFound() {
         StudentDB s = new StudentDB();
