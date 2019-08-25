@@ -14,7 +14,7 @@ public class RecordsKeeper {
     private List<Player> playersList = new ArrayList<>();
 
     public void addPlayer(Player p){
-        if(p.getFinalTime() != -1) {
+        if (p != null || p.getFinalTime() != -1) {
             playersList.add(p);
         }
     }
