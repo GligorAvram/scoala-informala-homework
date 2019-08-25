@@ -1,10 +1,18 @@
 package main;
 
+/**
+ * Player class that holds the information of the various players that need to be kept track of. Class implements the
+ * comparable interface to facilitate sorting
+ *
+ * @author Gligor Avram
+ * @version 1.0.0
+ */
 public class Player implements Comparable<Player> {
 
     private final String nr, name, country, time, firstShot, ndShot, rdShot;
     private final int finalTime, timeAdded;
 
+    //getters
     public String getNr() {
         return nr;
     }
@@ -37,6 +45,11 @@ public class Player implements Comparable<Player> {
         return timeAdded;
     }
 
+    public int getFinalTime() {
+        return finalTime;
+    }
+
+    //constructor for the class which assigns the player information provided and calculates the information needed to be returned as well
     public Player(String nr, String name, String country, String time, String firstShot, String ndShot, String rdShot) {
         this.nr = nr;
         this.name = name;
@@ -59,7 +72,7 @@ public class Player implements Comparable<Player> {
         int minutes;
         int seconds;
         try{
-        String[] t = time.split(":");
+            String[] t = time.split(":");
             try {
                 minutes = Integer.parseInt(t[0]);
                 seconds = Integer.parseInt(t[1]);
@@ -68,15 +81,10 @@ public class Player implements Comparable<Player> {
                 System.out.println(String.format("the value that was passed in was incorrect or player %s was disqualified", name));
 
             }
-        } catch(ArrayIndexOutOfBoundsException e)
-        {
+        } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Some of the data might be corrupt");
         }
         return -1;
-    }
-
-    public int getFinalTime() {
-        return finalTime;
     }
 
     @Override
