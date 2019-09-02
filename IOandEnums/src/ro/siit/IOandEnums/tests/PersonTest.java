@@ -3,12 +3,10 @@ package ro.siit.IOandEnums.tests;
 import org.junit.Test;
 import ro.siit.IOandEnums.main.PeopleContaimentUnit;
 import ro.siit.IOandEnums.main.Person;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
-
 import static org.junit.Assert.assertEquals;
 
 public class PersonTest {
