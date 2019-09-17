@@ -1,0 +1,91 @@
+drop database school;
+create database school;
+ use school;
+
+  create table courses(	
+ 	courseid int not null auto_increment,
+     area varchar(20),
+     title varchar(20) not null, 
+     descrip varchar(30),
+     prereqs varchar(30),
+     primary key(courseid)     
+ );
+
+create table classes(
+	classid int not null auto_increment,
+    courseid int not null,
+    days varchar(10),
+    starttime timestamp,
+    endtime timestamp,
+    bldg int not null,
+    roomnum int not null,
+    primary key(classid),
+	FOREIGN KEY(courseid) REFERENCES courses(courseid)
+);
+ 
+create table crosslistings(
+	courseid int not null,
+    dept varchar(20),
+    coursenum int not null,
+    FOREIGN KEY(courseid) REFERENCES courses(courseid)
+);
+
+create table coursesprofs(
+	courseid int not null, 
+    profid int not null,
+    primary key(profid),
+    FOREIGN KEY(courseid) REFERENCES courses(courseid)
+);
+
+create table profs(
+	profid int not null, 
+	profname varchar(200),
+	FOREIGN KEY(profid) REFERENCES coursesprofs(profid)
+);
+#fill courses with values
+insert into 
+courses (courseid, area, title, prereqs) 
+values 
+(1, 'South', 'Intro to Arithmetics', 'none'),
+(2, 'North', 'Phonology', 'none'),
+(3, 'NorthWest', 'Advanced Arithmetics', 'Basic Arithmetics'),
+(4, 'North', 'Intro to Physics', 'Advanced Arithmetics'),
+(5, 'East', 'Basketball', 'none');
+#fill classes with values
+insert into
+classes (classid, courseid, days, bldg, roomnum)
+values 
+(1, 1, 'MWF', 2, 105),
+(2, 1, 'TuTh', 1, 101),
+(3, 1, 'MTuW', 2, 315),
+(4, 3, 'TuF', 2, 211),
+(5, 2, 'WTh', 2, 107);
+#fill courseprofs with values
+insert into
+coursesprofs (courseid, profid)
+values 
+(1, 101),
+(2, 102),
+(3, 103),
+(4, 104),
+(5, 105);
+
+#fill crosslistings with values
+insert into
+crosslistings (courseid, dept, coursenum)
+values 
+(1, 'COS', 15),
+(2, 'Linguistics', 10),
+(3, 'COS', 20),
+(4, 'Science', 18),
+(5, 'Sports', 17);
+
+#fill profs with values
+insert into
+profs (profid, profname)
+values 
+(101, 'Cosmin Cozma'),
+(102, 'Valentin Popescu'),
+(103, 'Ioan Toader'),
+(104, 'Costel Lovin'),
+(105, 'Mihai Veres');
