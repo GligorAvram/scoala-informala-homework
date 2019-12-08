@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be55b0aa-c06f-4fdb-8341-f74c35e8fe0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/META-INF/GitRep.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/ChessEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/Pawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/Piece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/gligor/myprivates/chess/token.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Eggs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Milk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/leGumes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitRep/ro/week5/tests/StoreManagerTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week7/src/main/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/main/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week7/src/main/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/main/StudentDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week7/src/main/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/main/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week7/src/test/RemoveStudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/test/RemoveStudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week7/src/test/TestStudentCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/test/TestStudentCreation.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="week6" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1OgaVNx2cBrkbYNeK04Z53BLjZT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/kkk" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestStudentCreation">
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Students" />
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.RemoveStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveStudentTest.cnpTooShort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.RemoveStudentTest" />
+      <option name="METHOD_NAME" value="cnpTooShort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveStudentTest.happyRemoveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.RemoveStudentTest" />
+      <option name="METHOD_NAME" value="happyRemoveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudentCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestStudentCreation" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestStudentCreation" />
+        <item itemvalue="JUnit.RemoveStudentTest" />
+        <item itemvalue="Application.Students" />
+        <item itemvalue="JUnit.RemoveStudentTest.cnpTooShort" />
+        <item itemvalue="JUnit.RemoveStudentTest.happyRemoveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Greg\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be55b0aa-c06f-4fdb-8341-f74c35e8fe0b" name="Default Changelist" comment="" />
+      <created>1562605210361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562605210361</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added homework IDEA Project">
+      <created>1562605697594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562605697594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dummy change">
+      <created>1562605918690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562605918690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dummy change">
+      <created>1562606720970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562606720970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Varianta finala a temei">
+      <created>1564016854552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564016854552</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tema pentru saptamana 7. Lipseste javadocul si trebuie corectate niste buguri minore">
+      <created>1564880909899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564880909899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added homework IDEA Project" />
+    <MESSAGE value="Dummy change" />
+    <MESSAGE value="Varianta finala a temei" />
+    <MESSAGE value="Tema pentru saptamana 7. Lipseste javadocul si trebuie corectate niste buguri minore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema pentru saptamana 7. Lipseste javadocul si trebuie corectate niste buguri minore" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week7/src/main/StudentDB.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
